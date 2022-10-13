@@ -1,0 +1,23 @@
+{
+  "name": "how-well-do-you-know-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iajaymk/how-well-do-you-know-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iajaymk/how-well-do-you-know-me/issues"
+  },
+  "homepage": "https://github.com/iajaymk/how-well-do-you-know-me#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
